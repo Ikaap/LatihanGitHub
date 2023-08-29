@@ -8,4 +8,5 @@ fun main(){
     println("Name\t:$name")
     println("Age\t:$age")
     println("University\t:$campus")
+    println("=============================================")
 }
